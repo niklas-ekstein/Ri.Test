@@ -30,7 +30,7 @@ namespace Ri.Interview.Services
                     password = password
                 }
             };
-            
+
             var jsonString = JsonSerializer.Serialize(loginData);
             var httpContent = new StringContent(jsonString, System.Text.Encoding.UTF8, "application/json");
 
