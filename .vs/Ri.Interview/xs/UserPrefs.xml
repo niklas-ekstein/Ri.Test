@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8722C922-333B-4C98-B8DB-F4B95F8B5ABE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/GitHub/Afound.Developertest/commit reply">
+    <Files>
+      <File FileName="../../Documents/GitHub/Afound.Developertest/commit reply" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ri.Interview" expanded="True" selected="True">
+            <Node name="Ri.Interview" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ri.Interview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
